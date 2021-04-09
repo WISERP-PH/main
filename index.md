@@ -21,15 +21,15 @@ businesses, in Bacolod and beyond.
 ```
 
 ```
-Increase IT awareness and activities in the community.
+Increase tech awareness and activities in the community; and make Bacolod the IT capital of the
+Philippines.
 ```
 
 
 ### Vision 
 
 ```
-We see a future of digital savvy Negrense; and Bacolod as the Information Technology capital 
-of the Philippines.
+We see a future of digitally empowered Filipino SMEs capable of competing globally. 
 ```
 
 
