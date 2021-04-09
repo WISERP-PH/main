@@ -21,7 +21,7 @@ businesses, in Bacolod and beyond.
 ```
 
 ```
-Increase tech awareness and activities in the community; and make Bacolod the IT capital of the
+Increase tech awareness and activities in the community; and make Bacolod City the IT capital of the
 Philippines.
 ```
 
