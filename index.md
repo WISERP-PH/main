@@ -3,7 +3,7 @@
 
 <br/>
 <br/>
-### The Start 
+### The Lift Off 
 
 ```
 WISERP PH was founded on September 15, 2020, by college platoonmates Ian TP. and Ray LP. through FB 
