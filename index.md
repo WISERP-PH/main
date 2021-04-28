@@ -1,17 +1,3 @@
-<!DOCTYPE HTML>                                                                
-<html lang="en">                                                                
-    <head>                                                                      
-        <meta charset="utf-8">
-        <meta http-equiv="refresh" content="0;url=http://www.yahoo.com" />      
-        <link rel="canonical" href="http://www.yahoo.com" />                    
-    </head>                                                                                                                                                                  
-    <body>                                                                      
-        <h1>                                                                    
-            The page been moved to <a href="http://www.yahoo.com">http://www.yahoo.com</a>
-        </h1>                                                                  
-    </body>                                                                    
-</html>
-
 ## Welcome to WISERP PH 
 ![WISERP](https://avatars2.githubusercontent.com/u/40729378?s=120&v=4) `!`
 
