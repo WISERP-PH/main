@@ -13,6 +13,10 @@ starting from Negros Island. Believing that each SME deserves to be competitive 
 fields and in the global E-Business arena.
 ```
 
+```
+We see to it that it is not about us. It is about the community that we serve.
+```
+
 ### Mission
 
 ```
