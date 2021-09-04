@@ -41,4 +41,4 @@ We see a future of digitally empowered Filipino SMEs capable of competing global
 
 
 <br/>
-Copyright ® 2020 Wiserp PH, All right!
+Copyright ® 2020 Vanguard Digital Bacolod, All right!
