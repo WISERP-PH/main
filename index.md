@@ -6,11 +6,10 @@
 ### The Liftoff 
 
 ```
-WISERP PH was founded on September 15, 2020, by college platoonmates Ian TP. and Ray LP. through FB 
-messenger. They brought to WISERP a vision of changing the way people viewed business apps.
-Ray and Ian want digitization to be affordable for all SMEs (Small and Medium-sized Enterprise) 
-starting from Negros Island. Believing that each SME deserves to be competitive in their respective
-fields and in the global E-Business arena.
+WISERP PH was founded on September 15, 2020, WISERP has vision of changing the way people viewed business apps.
+The goal is to make digitization affordable for all SMEs (Small and Medium-sized Enterprise) starting 
+from Negros Island. Believing that each SME deserves to be competitive in their respective fields and in the 
+global E-Business arena.
 ```
 
 ```
