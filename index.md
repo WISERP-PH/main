@@ -6,10 +6,10 @@
 ### The Liftoff 
 
 ```
-WISERP PH was founded on September 15, 2020, with a vision of changing the way people viewed business apps.
-The goal is to make digitization affordable for all SMEs (Small and Medium-sized Enterprise) starting 
-from Negros island. Believing that each SME deserves to be competitive in their respective fields and in the 
-global E-Business arena.
+WISERP PH was founded on September 15, 2020, with a vision of changing the way people view business
+apps and software. The goal is to make digitization affordable for all SMEs (Small and Medium-sized
+Enterprise) starting from Negros island. Believing that each SME deserves to be competitive in their
+respective fields and in the global business arena.
 ```
 
 ```
@@ -41,4 +41,4 @@ We see a future of digitally empowered Filipino SMEs capable of competing global
 
 
 <br/>
-CopyCoffee ® 2020 Wiserp PH, All right!
+Copyright ® 2020 Wiserp PH, All right!
