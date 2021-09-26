@@ -37,7 +37,7 @@ We see a future of digitally empowered Filipino SMEs capable of competing global
 
 
 <br/>
-![long road](https://images.unsplash.com/photo-1469217329261-b173b63012f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80)
+![long road](https://images.unsplash.com/photo-1446768500601-ac47e5ec3719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3246&q=80)
 #### long way to go..
 
 <br/>
