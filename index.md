@@ -9,11 +9,11 @@
 Vanguard Digital Bacolod (VDB) was initiated on September 15, 2020 with a vision of changing the way 
 people view business apps and software. The goal is to make digitization affordable for all SMEs 
 (Small and Medium-sized Enterprise) starting from Negros island. Believing that each SME deserves 
-to be competitive in their respective fields and in the global business arena.
+to be competitive in their respective fields both in local and global possibilities.
 ```
 
 ```
-We see to it that it is not about us. It is about the community that we serve.
+We make sure that it is not about us. It is about the community that we serve.
 ```
 
 ### Mission
@@ -37,8 +37,8 @@ We see a future of digitally empowered Filipino SMEs capable of competing global
 
 
 <br/>
-![Gone wild](https://images.unsplash.com/photo-1592915091163-d606769c07dc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80)
-
+![long road](https://images.unsplash.com/photo-1469217329261-b173b63012f9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80)
+#### long way to go..
 
 <br/>
-Copyright ® 2020 Vanguard Digital Bacolod, All right!
+2020 Vanguard Digital Bacolod
