@@ -1,9 +1,7 @@
-
-## Vanguard Digital Bacolod
-![WISERP](https://avatars2.githubusercontent.com/u/40729378?s=120&v=4) `!`
-
 [Home](https://wiserp-ph.github.io/wiserp){: .btn}
 [About Us](https://wiserp-ph.github.io/wiserp/about){: .btn}
+## Vanguard Digital Bacolod
+![WISERP](https://avatars2.githubusercontent.com/u/40729378?s=120&v=4) `!`
 <br/>
 <br/>
 
@@ -45,4 +43,4 @@ We see a future of digitally empowered Filipino SMEs capable of competing global
 #### long way to go[..](https://wiserp-ph.github.io/wiserp/milestones)
 
 <br/>
-2020 Vanguard Digital Bacolod
+©2020 Vanguard Digital Bacolod
