@@ -1,3 +1,5 @@
+{% include navigation.html}
+
 ## Vanguard Digital Bacolod
 ![WISERP](https://avatars2.githubusercontent.com/u/40729378?s=120&v=4) `!`
 
