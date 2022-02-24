@@ -1,6 +1,7 @@
 [Home](https://wiserp-ph.github.io/wiserp){: .btn}
 [Packages](https://wiserp-ph.github.io/wiserp/packages){: .btn}
 [Promos](https://wiserp-ph.github.io/wiserp/promos){: .btn}
+[WISERP Basics](https://wiserp-ph.github.io/wiserp/wiserp_basics){: .btn}
 [About Us](https://wiserp-ph.github.io/wiserp/about){: .btn}
 ## Vanguard Digital Bacolod
 ![WISERP](https://avatars2.githubusercontent.com/u/40729378?s=120&v=4)

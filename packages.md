@@ -1,12 +1,15 @@
 [Home](https://wiserp-ph.github.io/wiserp){: .btn}
 [Packages](https://wiserp-ph.github.io/wiserp/packages){: .btn}
 [Promos](https://wiserp-ph.github.io/wiserp/promos){: .btn}
+[WISERP Basics](https://wiserp-ph.github.io/wiserp/wiserp_basics){: .btn}
 [About Us](https://wiserp-ph.github.io/wiserp/about){: .btn}
 <br/>
 <br/>
 
 ## Packages
 <br/>
+
+Our flagship product `WISERP` can be configured and acquired as `Packages` to fit your specific needs. 
 
 `Packages` are composed of `Apps`, `Apps` are modules that can be interrelated like Sales, Purchase & Inventory. When having a sale of an item, the inventory of that item will decrease. Conversely the inventory will increase if there is a purchase of that item. 
 <br/>
