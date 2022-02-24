@@ -6,7 +6,7 @@
 
 ## Packages
 
-### `Packages` are composed of `Apps`, `Apps` are just modules that can be interrelated like Sales, Purchase & Inventory. When having a sale of an item, the inventory of that item will decrease. Conversely the inventory will increase if there was a purchase of that item. 
+### `Packages` are composed of `Apps`, `Apps` are just modules that can be interrelated like Sales, Purchase & Inventory. When having a sale of an item, the inventory of that item will decrease. Conversely the inventory will increase if there is a purchase of that item. 
 
 ```
 POS/INVOICING PACKAGE
