@@ -12,14 +12,17 @@
 
 ### **BUSINESS APPS: Buy & Sell**
 
-- Imagine a retail business where it buys the products from their suppliers and sell in retail to their customers.
+- Imagine a retail business where it buys the products from their suppliers and sells in retail to their customers.
 - Here is a scenario where a business needs to buy some products if not all, in order to complete a particular sale to their customer.
+- **NOTE** all of the columns are representative of the `Apps` themselves except for the `Marketing` which is actually a `CRM` (Customer Relationship Managment) app 
+<br/>
 
 <img src="https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/buy_n_sell.png" alt="App Basics" width="960">
+<br/>
 
-①  CRM (Marketing) app generates leads. With the leads, Salesperson can use them to sell. Then Sales Order can be created for the products to sell. 
+①  `CRM` (Marketing) app generates leads. With the leads, Salesperson can use them to make a sale. Then `Sales Order` can be created for the products to sell. 
 
-②  Using the Sales Order, if the products is short of stocks replenishment is necessary. Purchase Order can be generated for the supplier. 
+②  Using the `Sales Order`, if the products is short of stocks a replenishment is necessary. `Purchase Order` can be generated for the supplier. 
 
 ③  Upon the arrival of the ordered products (Receipts), inventory will get updated. 
 
