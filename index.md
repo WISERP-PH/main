@@ -18,7 +18,7 @@
 - Sales & Invoicing
 - Inventory System 
 
-### Check which package that suits your needs [here](https://wiserp-ph.github.io/wiserp/packages). 
+Check our [packages](https://wiserp-ph.github.io/wiserp/packages) to know what meets your needs. 
 
 <br/>
 <br/>
