@@ -15,23 +15,27 @@
     > To bootstrap and help MICRO businesses with their digital needs. 
 
   - *Qualification to avail the promo*
-    > 1. Barangay Micro Business Enterprise **(BMBE)** recipient. 
-    > 1. If non-BMBE recipient but qualifies for **BMBE** they can be accepted.
-    > 1. Otherwise the establishment **MUST NOT** have more than *10 employees* in order to qualify.
-    > 1. Requires **LITTLE** to **NO** customizations of the existing apps
+    > Barangay Micro Business Enterprise **(BMBE)** recipient. 
+
+    > If non-BMBE recipient but qualifies for **BMBE** they can be accepted.
+
+    > Otherwise the establishment **MUST NOT** have more than *10 employees* in order to qualify.
+
+    > Requires **LITTLE** to **NO** customizations of the existing apps
 
     > Need to know more about BMBE check it <a href="https://pcw.gov.ph/republic-act-9178-barangay-micro-business-enterprises-act-of-2002/" target="_blank" >here</a>.
 
   - *Period:* **Jan 13, 2022 - Jun 30, 2022**
   - *Pricing:* 
-    > 1. Monthly subscription: **PHP 3,500**
-    > 1. One time setup fee: **PHP 2,000**
+    > Monthly subscription: **PHP 3,500**
+
+    > One time setup fee: **PHP 2,000**
 
   - *Users:* Free up to **6 USERS**
     > We charge one time: **PHP 500** per extra user
 
   - *PACKAGES (APPS)*
-    - **POS / INVOICING**
+    > **POS / INVOICING**
 
       ```
       - Message
@@ -41,7 +45,7 @@
       - Invoicing
       ```
 
-    - **HRIS**
+    > **HRIS**
 
       ```
       - Timetable

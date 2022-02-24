@@ -18,4 +18,7 @@
 ```
 2022
   - 01.13 > Early Adopters soft launch
+  - 01.31 > GPM joined
+  - 02.06 > AGY joined
+  - 02.24 > Revamped Github page
 ```
