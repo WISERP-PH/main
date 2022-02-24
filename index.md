@@ -20,7 +20,7 @@
 
 ### Check which package that suits your needs [here](https://wiserp-ph.github.io/wiserp/packages). 
 
-For early adopters we have [promo](https://wiserp-docs.web.app/promo/main.html) for you!
+For early adopters we have [promo](https://wiserp-ph.github.io/wiserp/promos) for you!
  
 
 <br/>
