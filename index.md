@@ -28,4 +28,5 @@ Good news for `Early Adopters` we have [promo](https://wiserp-ph.github.io/wiser
 
 <br/>
 <br/>
+
 ©2020 Vanguard Digital Bacolod
