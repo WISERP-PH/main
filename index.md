@@ -12,6 +12,7 @@
 ![Software](https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/software.png)
 
 In a nutshell we create a website which contains business apps to streamline your business processes, all in one access.
+<br/>
 
 ### Here are some of our offerings you may be familiar with: 
 - Website (Custom domain & email)
@@ -21,11 +22,10 @@ In a nutshell we create a website which contains business apps to streamline you
 - Inventory System 
 
 Check our [packages](https://wiserp-ph.github.io/wiserp/packages) to know what meets your needs. 
-
 <br/>
-<br/>
-Good news for `Early Adopters` we have [promo](https://wiserp-ph.github.io/wiserp/promos) for you!
 
+Good news for ` Early Adopters ` we've got a [promo](https://wiserp-ph.github.io/wiserp/promos) for you!
+<br/>
 <br/>
 <br/>
 
