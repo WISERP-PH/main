@@ -40,6 +40,8 @@ Philippines.
 ```
 We see a future of digitally empowered Filipino SMEs capable of competing globally. 
 ```
+<br/>
+<br/>
 
 <a href="http://m.me/wiserpph" target="_blank" class="btn">CONTACT US</a>
 <br/>
