@@ -45,8 +45,8 @@
       > - Time Off
       > - Expenses
 
-  - To get started send us a <a href="http://m.me/wiserpph" target="_blank" >message</a>. Or visit our [FB page](https://www.facebook.com/wiserpph)
-
+  - To get started send us a <a href="http://m.me/wiserpph" target="_blank" >message</a>, or visit our 
+<a href="https://www.facebook.com/wiserpph" target="_blank" >FB page</a>.
 
 <br/>
 ©2020 Vanguard Digital Bacolod
