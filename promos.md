@@ -32,6 +32,7 @@
 
   - *PACKAGES (APPS)*
     - **POS / INVOICING**
+
       ```
       - Message
       - Sales
@@ -41,6 +42,7 @@
       ```
 
     - **HRIS**
+
       ```
       - Timetable
       - Invoicing 

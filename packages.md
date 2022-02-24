@@ -7,20 +7,18 @@
 
 ## Packages
 
-### `Packages` are composed of `Apps`, `Apps` are just modules that can be interrelated like Sales, Purchase & Inventory. When having a sale of an item, the inventory of that item will decrease. Conversely the inventory will increase if there is a purchase of that item. 
+`Packages` are composed of `Apps`, `Apps` are modules that can be interrelated like Sales, Purchase & Inventory. When having a sale of an item, the inventory of that item will decrease. Conversely the inventory will increase if there is a purchase of that item. 
 
-```
-POS/INVOICING PACKAGE
+- POS/INVOICING PACKAGE
 ```
 - Messsage 
 - Sales 
 - POS 
 - Inventory 
 - Invoicing 
-
-
 ```
-HRIS PACKAGE
+
+- HRIS PACKAGE
 ```
 - Messsage 
 - Timetable
@@ -30,10 +28,9 @@ HRIS PACKAGE
 - Attendances
 - Time Off
 - Expenses 
-
-
 ```
-CLINIC PACKAGE
+
+- CLINIC PACKAGE
 ```
 - Patient 
 - Sales
@@ -43,6 +40,7 @@ CLINIC PACKAGE
 - Invoicing 
 - Contacts 
 - Message 
+```
  
 <br/>
 ©2020 Vanguard Digital Bacolod
