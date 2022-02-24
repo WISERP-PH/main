@@ -20,8 +20,9 @@
 
 ### Check which package that suits your needs [here](https://wiserp-ph.github.io/wiserp/packages). 
 
+<br/>
+<br/>
 For early adopters we have [promo](https://wiserp-ph.github.io/wiserp/promos) for you!
- 
 
 <br/>
 ©2020 Vanguard Digital Bacolod
