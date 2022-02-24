@@ -31,6 +31,18 @@ HRIS PACKAGE
 - Time Off
 - Expenses 
 
+
+```
+CLINIC PACKAGE
+```
+- Patient 
+- Sales
+- Inventory
+- Employees
+- Timetable
+- Invoicing 
+- Contacts 
+- Message 
  
 <br/>
 ©2020 Vanguard Digital Bacolod
