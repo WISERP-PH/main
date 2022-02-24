@@ -1,5 +1,6 @@
 [Home](https://wiserp-ph.github.io/wiserp){: .btn}
 [Packages](https://wiserp-ph.github.io/wiserp/packages){: .btn}
+[Promos](https://wiserp-ph.github.io/wiserp/promos){: .btn}
 [About Us](https://wiserp-ph.github.io/wiserp/about){: .btn}
 <br/>
 <br/>
