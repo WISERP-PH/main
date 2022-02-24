@@ -42,10 +42,15 @@ We see a future of digitally empowered Filipino SMEs capable of competing global
 ```
 
 <a href="http://m.me/wiserpph" target="_blank" class="btn">CONTACT US</a>
+<br/>
+
+If you like our cause show your support via our <a href="https://www.facebook.com/wiserpph" target="_blank" >FB page</a>
+, simple `like` means a lot for us.
+
 
 <br/>
 ![long road](https://images.unsplash.com/photo-1446768500601-ac47e5ec3719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3246&q=80)
-#### we still have long road ahead of us [..](https://wiserp-ph.github.io/wiserp/milestones)
+we still have long road ahead of us [.](https://wiserp-ph.github.io/wiserp/milestones)
 
 <br/>
 ©2020 Vanguard Digital Bacolod

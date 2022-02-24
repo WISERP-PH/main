@@ -61,4 +61,5 @@
 <a href="https://www.facebook.com/wiserpph" target="_blank" >FB page</a>.
 
 <br/>
+<br/>
 ©2020 Vanguard Digital Bacolod
