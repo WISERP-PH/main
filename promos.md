@@ -35,7 +35,7 @@
     > We charge one time: **PHP 500** per extra user
 
   - *PACKAGES (APPS)*
-    > **POS / INVOICING**
+    - **POS / INVOICING**
 
       ```
       - Message
@@ -45,7 +45,7 @@
       - Invoicing
       ```
 
-    > **HRIS**
+    - **HRIS**
 
       ```
       - Timetable
