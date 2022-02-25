@@ -13,10 +13,10 @@
 
   <img src="https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/ea.png" alt="Early graph" width="220">
   
-  - *Purpose*
+  - *WHY*
     > To bootstrap and help MICRO businesses with their digital needs. 
 
-  - *Qualification to avail the promo*
+  - *HOW - Qualification to avail the promo*
     > Barangay Micro Business Enterprise **(BMBE)** recipient. 
 
     > If non-BMBE recipient but qualifies for **BMBE** they can be accepted.
@@ -27,7 +27,7 @@
 
     > Need to know more about BMBE check it <a href="https://pcw.gov.ph/republic-act-9178-barangay-micro-business-enterprises-act-of-2002/" target="_blank" >here</a>.
 
-  - *Period:* **Jan 13, 2022 - Jun 30, 2022**
+  - *Promo Period:* **Jan 13, 2022 - Jun 30, 2022**
   - *Pricing:* 
     > Monthly subscription: **PHP 3,500**
 

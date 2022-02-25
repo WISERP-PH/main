@@ -59,7 +59,7 @@ If you like our cause show your support via our <a href="https://www.facebook.co
 <img src="https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/long_road.jpeg" alt="long road" width="920">
 
 
-We still have long road ahead of us 
+We still have a long road ahead of us! 
 
 <br/>
 ©2020 [.](https://wiserp-ph.github.io/wiserp/milestones)Vanguard Digital Bacolod

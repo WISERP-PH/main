@@ -12,7 +12,8 @@
 ### Technology is a gift and should not be that complicated, thus we are here to be of service to you. 
 ![Software](https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/software.png)
 
-In a nutshell we create a website which contains business apps to streamline your business processes, all in one access.
+In a nutshell we create websites for our clients which has their business apps in order to streamline their business processes. All in one access.
+<br/>
 <br/>
 
 ### Here are some of our offerings you may be familiar with: 
@@ -24,8 +25,10 @@ In a nutshell we create a website which contains business apps to streamline you
 
 Check our [packages](https://wiserp-ph.github.io/wiserp/packages) to know what meets your needs. 
 <br/>
+<br/>
+<br/>
 
-Good news for ` Early Adopters ` we've got a [promo](https://wiserp-ph.github.io/wiserp/promos) for you!
+Good news for you ` Early Adopters ` we've got a [promo](https://wiserp-ph.github.io/wiserp/promos) for you!
 <br/>
 <br/>
 <br/>
