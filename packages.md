@@ -54,7 +54,7 @@ Our flagship product `WISERP` can be configured and acquired as a `Package` to f
 - Message 
 ```
 
-These `Apps` are highly customizable to fit the thing that matters the most to you including your functional/operational needs.
+These `Apps` are highly customizable to fit your functional/operational needs.
  
 <br/>
 <br/>

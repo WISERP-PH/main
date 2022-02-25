@@ -19,6 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/buy_n_sell.png" alt="App Basics" width="960">
 <br/>
+<br/>
 
 ①  `CRM` (Marketing) app generates leads. With the leads, Salesperson can use them to make a sale. Then `Sales Order` can be created for the products to sell. 
 
