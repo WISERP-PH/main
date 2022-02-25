@@ -56,10 +56,10 @@ If you like our cause show your support via our <a href="https://www.facebook.co
 ![long road](https://images.unsplash.com/photo-1446768500601-ac47e5ec3719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3246&q=80)
 -->
 
-<img src="https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/long_road.jpeg" alt="long road" width="920">
+<img src="https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/long_road.jpeg" alt="long road" width="960">
+##### We still have a long road ahead of us! 
 
-
-We still have a long road ahead of us! 
-
+<br/>
+<br/>
 <br/>
 ©2020 [.](https://wiserp-ph.github.io/wiserp/milestones)Vanguard Digital Bacolod

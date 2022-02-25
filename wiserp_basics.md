@@ -29,3 +29,9 @@
 ④  At this point stocks has been replenished so sale can proceed in step ①, and orders can be delivered.
 
 ⑤  Using the purchase order, Vendor Bills can be generated to pay the suppliers. 
+
+
+<br/>
+<br/>
+<br/>
+©2020 Vanguard Digital Bacolod

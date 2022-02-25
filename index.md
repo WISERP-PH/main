@@ -9,10 +9,10 @@
 <br/>
 
 
-### Technology is a gift and should not be that complicated, thus we are here to be of service to you. 
+### Technology is a gift and should not be that complicated, so we are here to be of service to you. 
 ![Software](https://raw.githubusercontent.com/WISERP-PH/wiserp/gh-pages/images/software.png)
 
-In a nutshell we create websites for our clients which has their business apps in order to streamline their business processes. All in one access.
+In a nutshell, we create websites for our clients which has their business apps in order to streamline their business processes. All in one access.
 <br/>
 <br/>
 
@@ -29,8 +29,8 @@ Check our [packages](https://wiserp-ph.github.io/wiserp/packages) to know what m
 <br/>
 
 Good news for you ` Early Adopters ` we've got a [promo](https://wiserp-ph.github.io/wiserp/promos) for you!
-<br/>
-<br/>
-<br/>
 
+<br/>
+<br/>
+<br/>
 ©2020 Vanguard Digital Bacolod
