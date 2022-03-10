@@ -21,4 +21,5 @@
   - 01.31 > GPM joined
   - 02.06 > AGY joined
   - 02.24 > Revamped Github page
+  - 03.10 > DTI Registraion: VANGUARD-DIGITAL BACOLOD SOFTWARE DEVELOPMENT SERVICES
 ```
