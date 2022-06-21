@@ -1,25 +1,34 @@
 [Home](https://wiserp-ph.github.io/wiserp){: .btn}
 [Packages](https://wiserp-ph.github.io/wiserp/packages){: .btn}
+[Promos](https://wiserp-ph.github.io/wiserp/promos){: .btn}
+[WISERP Basics](https://wiserp-ph.github.io/wiserp/wiserp_basics){: .btn}
 [About Us](https://wiserp-ph.github.io/wiserp/about){: .btn}
 <br/>
 <br/>
 
 ## Packages
+<br/>
 
-### `Packages` are composed of `Apps`. Think of `Apps` as modules that can be interrelated like `Sales`, `Purchase` & `Inventory`. When having a sale of an item, the inventory of that item will decrease. Conversely the inventory will increase if there is a purchase of that item. 
+Our flagship product `WISERP` can be configured and acquired as a `Package` to fit your specific needs. 
 
-```
-POS/INVOICING PACKAGE
+`Packages` are composed of `Apps`, Think of `Apps` as modules that can be interrelated like `Sales`, `Purchase` & `Inventory`. When having a sale of an item, the inventory of that item will decrease. Conversely the inventory will increase if there is a purchase of that item. See [WISERP Basics](https://wiserp-ph.github.io/wiserp/wiserp_basics) for more info.
+<br/>
+<br/>
+<br/>
+
+- POS/INVOICING PACKAGE
+
 ```
 - Messsage 
 - Sales 
 - POS 
 - Inventory 
 - Invoicing 
-
-
 ```
-HRIS PACKAGE
+<br/>
+
+- HRIS PACKAGE
+
 ```
 - Messsage 
 - Timetable
@@ -29,7 +38,24 @@ HRIS PACKAGE
 - Attendances
 - Time Off
 - Expenses 
+```
+<br/>
 
+- CLINIC PACKAGE
+
+```
+- Patient 
+- Sales
+- Inventory
+- Employees
+- Timetable
+- Invoicing 
+- Contacts 
+- Message 
+```
+
+These `Apps` are highly customizable to fit your functional/operational needs.
  
+<br/>
 <br/>
 ©2020 Vanguard Digital Bacolod
